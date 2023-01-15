@@ -1,6 +1,6 @@
 <?php
 
-require_once "Settings/Settings.php";
+require_once "Settings.php";
 
 ?>
 <!DOCTYPE html>
